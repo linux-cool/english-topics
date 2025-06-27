@@ -1,0 +1,109 @@
+# Traveling Abroad Vocabulary (with explanations)
+
+- passport: an official document issued by a government, certifying the holder’s identity and citizenship, allowing them to travel abroad
+- visa: an official endorsement on a passport allowing entry, stay, or exit from a country
+- customs: the official department that administers and collects duties on imported goods and checks travelers’ belongings
+- itinerary: a detailed plan or route of a journey
+- accommodation: a place to stay, such as a hotel, hostel, or guesthouse
+- currency exchange: the process of converting one country’s money into another’s
+- travel insurance: a policy that covers financial losses and medical emergencies while traveling
+- sightseeing: visiting interesting places, especially as a tourist
+- reservation: an arrangement to secure a place, such as a seat, room, or ticket, in advance
+- embassy: the official residence or offices of an ambassador in a foreign country
+- consulate: a government office in a foreign city that helps its citizens and handles visas
+- tourist attraction: a place of interest that draws visitors
+- backpacker: a person who travels with a backpack, often on a budget
+- hostel: a budget-friendly place to stay, often with shared rooms
+- jet lag: tiredness caused by traveling across time zones
+- departure: the act of leaving a place, especially to start a journey
+- arrival: the act of reaching a destination
+- boarding pass: a document provided by an airline allowing a passenger to board a plane
+- gate: the area in an airport where passengers board their flight
+- layover: a short stay between parts of a journey, usually at an airport
+- direct flight: a flight with no stops between origin and destination
+- connecting flight: a flight that requires changing planes at an intermediate airport
+- baggage claim: the area in an airport where passengers collect their checked luggage
+- lost and found: a place where lost items are kept until claimed
+- travel adapter: a device that allows electronic devices to be plugged into foreign outlets
+- language barrier: difficulty in communication due to speaking different languages
+- phrasebook: a small book containing common phrases in a foreign language
+- guidebook: a book with information about a place, including maps and recommendations
+- local cuisine: traditional food from a particular region or country
+- cultural etiquette: the accepted rules of behavior in a particular culture
+- travel companion: a person who travels with you
+- group tour: a trip organized for several people, usually with a guide
+- solo travel: traveling alone
+- travel agency: a business that arranges travel and accommodation for clients
+- e-ticket: an electronic ticket for travel
+- check-in: the process of registering upon arrival at a hotel or airport
+- security check: the process of screening passengers and luggage for safety
+- duty-free: goods sold at airports exempt from certain local or national taxes
+- immigration: the process of entering and being allowed to stay in a foreign country
+- visa waiver: permission to enter a country without a visa for a limited time
+- travel restrictions: rules limiting where or how people can travel
+- travel advisory: official information about safety or health risks in a destination
+- emergency contact: a person to be notified in case of an emergency
+- health declaration: a form stating your health status, often required for entry
+- vaccination certificate: proof of immunization against certain diseases
+- travel budget: a plan for how much money will be spent on a trip
+- foreign transaction fee: a charge for using a credit card abroad
+- pickpocket: a person who steals from people’s pockets or bags in public places
+- travel scam: a fraudulent scheme targeting travelers
+- travel app: a mobile application that helps with travel planning or navigation
+- public transportation: buses, trains, or other forms of transport available to the public
+- rental car: a car that can be hired for temporary use
+- travel document: any official paper required for travel, such as a passport or visa
+- border control: the process of checking people and goods entering a country
+- customs declaration: a form listing goods acquired abroad that must be declared to customs
+- travel itinerary: a detailed schedule of travel plans
+- travel voucher: a document that can be exchanged for goods or services during travel
+- host family: a local family that provides accommodation to travelers, often students
+- travel guide: a person or book that provides information about a place
+- travel restrictions: limitations on where or how people can travel
+- travel ban: a government order prohibiting travel to or from certain places
+- embassy staff: employees who work at an embassy
+- international driver’s license: a permit allowing you to drive in foreign countries
+- travel emergency: an unexpected situation requiring immediate attention while traveling
+- lost passport: a situation where a traveler’s passport is missing and must be replaced
+- consular assistance: help provided by a consulate to its citizens abroad
+- travel itinerary: a plan or schedule of travel activities
+- travel insurance policy: a document outlining coverage for travel-related risks
+- travel health clinic: a medical facility providing vaccinations and advice for travelers
+- travel vaccination: an immunization required or recommended for travel
+- travel medicine: medical care related to travel health
+- travel restrictions: official limitations on travel due to health, safety, or political reasons
+- travel ban: a prohibition on entering or leaving certain countries
+- travel advisory: official government advice about travel risks
+- travel alert: a warning about potential dangers in a destination
+- travel documentation: all papers required for international travel
+- travel expense: money spent on travel
+- travel reimbursement: repayment for travel expenses
+- travel itinerary planner: a tool or app for organizing travel plans
+- travel log: a record of travel experiences
+- travel review: an evaluation of a travel experience
+- travel forum: an online community for sharing travel advice
+- travel influencer: a person who shares travel experiences online
+- travel photography: taking photos while traveling
+- travel journal: a personal record of travel experiences
+- travel souvenir: an item bought to remember a trip
+- travel insurance claim: a request for payment from a travel insurance company
+- travel mishap: an unexpected problem or accident during travel
+- travel delay: a situation where travel is postponed
+- travel cancellation: the act of calling off a planned trip
+- travel refund: money returned for a canceled trip
+- travel itinerary confirmation: proof that travel plans are booked
+- travel destination: the place where someone is going
+- travel season: the time of year when travel is most popular
+- travel package: a set of travel services sold together
+- travel agent: a person who arranges travel for others
+- travel portal: a website for booking travel
+- travel loyalty program: a rewards system for frequent travelers
+- travel upgrade: an improvement to travel services, such as a better seat or room
+- travel perks: extra benefits received while traveling
+- travel etiquette: polite behavior expected while traveling
+- travel tip: advice for making travel easier or safer
+- travel checklist: a list of things to do or pack before a trip
+- travel essentials: important items needed for travel
+- travel insurance provider: a company that sells travel insurance
+- travel hotline: a phone number for travel assistance
+- travel app: a mobile application for travel planning or navigation

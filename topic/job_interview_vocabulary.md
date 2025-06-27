@@ -1,0 +1,156 @@
+# Job Interview Vocabulary (with explanations)
+
+- resume: a document summarizing a person's education, work experience, and skills, used when applying for a job
+- curriculum vitae (CV): a detailed written overview of a person's academic and professional history
+- cover letter: a letter sent with a resume to provide additional information about one’s skills and motivation
+- qualifications: the skills, experience, or education that make someone suitable for a particular job
+- references: people who can provide information about your character and abilities to a potential employer
+- strengths: positive attributes or skills that give someone an advantage in a job
+- weaknesses: areas where a person may lack skill or experience
+- interviewer: the person who asks questions during a job interview
+- applicant: a person who applies for a job
+- position: a specific job or role within a company
+- experience: knowledge or skills gained through previous work or activities
+- salary expectations: the amount of money a candidate hopes to earn in a job
+- job description: a summary of the responsibilities and requirements of a job
+- vacancy: an available job position
+- recruitment: the process of finding and hiring new employees
+- headhunter: a person or company that finds suitable candidates for high-level jobs
+- human resources: the department responsible for hiring, training, and managing employees
+- background check: an investigation into a person’s history, often done before hiring
+- portfolio: a collection of work samples that demonstrate skills and experience
+- soft skills: personal attributes that enable someone to interact effectively with others
+- hard skills: specific, teachable abilities or knowledge required for a job
+- career path: the progression of jobs and roles a person takes throughout their working life
+- promotion: advancement to a higher position or rank within a company
+- probation period: a trial period during which an employee’s performance is evaluated
+- contract: a legal agreement between an employee and employer
+- full-time: working the standard number of hours defined by an employer
+- part-time: working fewer hours than a full-time schedule
+- internship: a temporary position, often for students or recent graduates, to gain work experience
+- benefits: non-salary compensation such as health insurance, paid leave, or retirement plans
+- compensation: the total payment and benefits received for work
+- negotiation: discussion aimed at reaching an agreement, often about salary or benefits
+- offer letter: a formal document offering someone a job
+- onboarding: the process of integrating a new employee into a company
+- resignation: the act of leaving a job voluntarily
+- notice period: the time between announcing resignation and leaving a job
+- teamwork: working effectively with others to achieve a common goal
+- leadership: the ability to guide and motivate a team
+- adaptability: the ability to adjust to new conditions or changes
+- communication skills: the ability to convey information clearly and effectively
+- time management: the ability to use one’s time efficiently and productively
+- conflict resolution: the process of resolving disagreements or disputes
+- multitasking: handling more than one task at the same time
+- self-motivation: the ability to do tasks without needing external encouragement
+- initiative: the ability to assess and start things independently
+- performance review: an evaluation of an employee’s work by their manager
+- feedback: information about performance used for improvement
+- professional development: activities that improve skills and knowledge for career growth
+- networking: building relationships with people who can help your career
+- job fair: an event where employers and job seekers meet
+- aptitude test: a test to measure a person’s ability to perform certain tasks
+- assessment center: a place where candidates are evaluated through various exercises
+- dress code: rules about what clothes employees should wear at work
+- punctuality: being on time for work or appointments
+- body language: nonverbal communication through gestures, posture, and facial expressions
+- follow-up: contacting someone after an interview or meeting to express continued interest
+- thank-you note: a message sent to express gratitude after an interview
+- panel interview: an interview conducted by multiple interviewers
+- behavioral questions: questions about how a candidate handled situations in the past
+- situational questions: questions about how a candidate would handle hypothetical situations
+- STAR method: a technique for answering behavioral interview questions (Situation, Task, Action, Result)
+- competency: the ability to do something successfully or efficiently
+- job security: the likelihood that someone will keep their job
+- relocation: moving to a new place for a job
+- remote work: working from a location outside the traditional office
+- flexible hours: a work schedule that allows employees to choose their working times
+- diversity: the inclusion of people from different backgrounds in the workplace
+- inclusion: ensuring all employees feel valued and integrated
+- company culture: the shared values, beliefs, and behaviors within a company
+- mission statement: a summary of a company’s goals and values
+- vision: a company’s long-term goals and aspirations
+- values: the principles that guide a company’s actions
+- job satisfaction: how content an employee is with their job
+- work-life balance: the balance between work responsibilities and personal life
+- reference check: contacting previous employers to verify a candidate’s background
+- job portal: a website where job openings are posted
+- application form: a document used to apply for a job
+- screening: the process of reviewing applications to select suitable candidates
+- shortlist: a list of candidates selected for further consideration
+- rejection: not being selected for a job
+- acceptance: agreeing to take a job offer
+- career goals: objectives related to one’s professional life
+- ambition: a strong desire to achieve success
+- achievements: things accomplished through effort and skill
+- challenges: difficult tasks or situations that require effort to overcome
+- learning curve: the rate at which someone learns a new skill
+- mentorship: guidance provided by a more experienced person
+- supervisor: a person who manages or oversees others at work
+- subordinate: a person who works under someone else
+- peer: a colleague at the same level in an organization
+- job rotation: moving between different jobs to gain experience
+- succession planning: preparing employees to fill key roles in the future
+- exit interview: a meeting with an employee who is leaving a company to discuss their experience
+- confidentiality: keeping sensitive information private
+- non-disclosure agreement: a legal contract to keep information confidential
+- code of conduct: a set of rules outlining expected behavior at work
+- ethics: moral principles that guide behavior
+- workplace harassment: unwanted behavior that creates a hostile work environment
+- discrimination: unfair treatment based on personal characteristics
+- equal opportunity: ensuring all people have the same chances at work
+- labor law: laws that regulate employment practices
+- union: an organization that represents workers’ interests
+- grievance: a complaint about unfair treatment at work
+- mediation: a process to resolve disputes with the help of a neutral third party
+- arbitration: a process where a dispute is settled by an impartial person
+- severance package: compensation given to an employee when they leave a company
+- outplacement: support services for employees who are leaving a company
+- unemployment benefits: payments made to people who are out of work
+- retraining: learning new skills for a different job
+- upskilling: learning new skills to improve performance in a current job
+- reskilling: learning new skills for a new job or career
+- transferable skills: skills that can be used in different jobs or industries
+- job market: the availability of jobs in a particular area or field
+- industry trends: patterns or changes in a particular industry
+- professional association: an organization for people in the same profession
+- certification: an official document proving a person’s qualifications
+- accreditation: official recognition that a person or organization meets certain standards
+- continuing education: ongoing learning to maintain or improve skills
+- alumni network: a group of former students or employees who stay connected
+- job shadowing: observing someone at work to learn about their job
+- volunteering: working without pay to gain experience or help others
+- gap year: a year taken off, often between studies or jobs, to gain experience
+- sabbatical: a period of paid or unpaid leave from work for study or travel
+- freelance: working for different companies without a long-term contract
+- consultancy: providing expert advice to organizations
+- entrepreneurship: starting and running a new business
+- start-up: a newly established business
+- innovation: creating new ideas, products, or methods
+- creativity: the ability to produce original and valuable ideas
+- problem-solving: finding solutions to difficult or complex issues
+- critical thinking: analyzing facts to make a reasoned judgment
+- analytical skills: the ability to assess information and solve problems
+- decision-making: choosing the best course of action among alternatives
+- emotional intelligence: the ability to understand and manage one’s own emotions and those of others
+- stress management: techniques for controlling stress
+- resilience: the ability to recover from setbacks
+- perseverance: continued effort to achieve something despite difficulties
+- self-awareness: understanding one’s own emotions and strengths
+- self-regulation: controlling one’s behavior and emotions
+- motivation: the reason or reasons for acting or behaving in a particular way
+- empathy: the ability to understand and share the feelings of others
+- social skills: skills for interacting effectively with others
+- rapport: a positive relationship or connection with others
+- first impression: the initial perception formed about someone
+- handshake: a common greeting involving grasping hands
+- eye contact: looking directly into someone’s eyes during communication
+- small talk: casual conversation about unimportant topics
+- icebreaker: an activity or remark to relieve tension and start conversation
+- elevator pitch: a brief, persuasive speech to spark interest in what you do
+- personal branding: the practice of marketing oneself and one’s career
+- online presence: the information about a person available on the internet
+- LinkedIn: a professional networking website
+- portfolio website: a personal website showcasing work and achievements
+- digital footprint: the information about a person that exists on the internet as a result of their online activity
+- references available upon request: a phrase indicating that references can be provided if needed

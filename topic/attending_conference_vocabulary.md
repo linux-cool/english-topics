@@ -1,0 +1,111 @@
+# Attending a Conference Vocabulary (with explanations)
+
+- keynote: the main speech or presentation at a conference, often given by a prominent speaker
+- panel discussion: a conversation among several experts on a stage, usually with an audience
+- networking: meeting and interacting with other professionals to build relationships
+- registration: the process of signing up or checking in for a conference
+- agenda: a schedule of events and sessions at a conference
+- breakout session: a smaller, focused meeting within a larger conference
+- delegate: a person attending a conference as a representative
+- workshop: a hands-on session where participants learn or practice skills
+- moderator: a person who leads or facilitates a discussion or panel
+- feedback: comments or suggestions about a session or event
+- session: a single meeting, presentation, or workshop at a conference
+- exhibitor: a person or company displaying products or services at a conference
+- booth: a small area where exhibitors present their products or services
+- name badge: a tag worn to show a participant’s name and affiliation
+- lanyard: a cord worn around the neck to hold a name badge
+- conference app: a mobile application with event information and networking tools
+- Q&A: a question and answer session after a presentation
+- roundtable: a discussion where all participants can contribute equally
+- plenary: a session attended by all conference participants
+- abstract: a summary of a presentation or research paper
+- call for papers: an invitation to submit presentations or research for a conference
+- poster session: a time when researchers display and discuss their work on posters
+- handout: printed material given to participants
+- conference proceedings: a published record of presentations and papers from a conference
+- early bird registration: discounted registration for those who sign up early
+- late registration: signing up after the regular deadline, often at a higher price
+- conference fee: the cost to attend a conference
+- travel grant: financial support to help cover travel expenses
+- accommodation: a place to stay during the conference
+- travel itinerary: a plan for travel to and from the conference
+- reimbursement: repayment for expenses incurred
+- per diem: a daily allowance for expenses
+- keynote speaker: the person giving the main speech
+- session chair: the person responsible for running a session
+- timekeeper: a person who ensures sessions run on schedule
+- technical support: help with audio-visual or computer equipment
+- simultaneous interpretation: real-time translation of presentations
+- conference venue: the location where the conference is held
+- welcome reception: an event to greet participants at the start of a conference
+- closing ceremony: the final event of a conference
+- certificate of attendance: a document proving participation
+- attendee: a person who attends a conference
+- presenter: a person who gives a talk or presentation
+- abstract submission: sending a summary of a presentation for consideration
+- peer review: evaluation of presentations or papers by other experts
+- conference organizer: the person or group responsible for planning the event
+- conference theme: the main topic or focus of the conference
+- industry track: sessions focused on practical applications in a specific industry
+- academic track: sessions focused on research and theory
+- sponsor: a company or organization that provides financial support
+- exhibitor hall: the area where booths are set up
+- conference bag: a bag given to participants with materials and gifts
+- swag: free promotional items given to attendees
+- conference proceedings: the official record of presentations and papers
+- registration desk: the place where participants check in
+- conference badge: another term for name badge
+- conference call: a meeting held by phone or video before the event
+- virtual conference: an online version of a conference
+- hybrid conference: a mix of in-person and online participation
+- live stream: broadcasting sessions over the internet in real time
+- on-demand session: a recorded session available to watch later
+- networking event: a social gathering for meeting other participants
+- icebreaker: an activity to help people get to know each other
+- business card: a small card with contact information
+- elevator pitch: a brief summary of your work or interests
+- professional development: activities to improve skills and knowledge
+- continuing education: learning activities after formal education
+- conference proceedings: published collection of conference papers
+- travel stipend: money given to help cover travel costs
+- conference schedule: the timetable of sessions and events
+- session abstract: a summary of a session’s content
+- conference committee: the group organizing the event
+- conference website: the online source for event information
+- registration confirmation: proof of successful registration
+- conference materials: documents and items provided to participants
+- conference evaluation: a survey to gather feedback from attendees
+- conference sponsor: a company or group supporting the event
+- conference partner: an organization working with the organizers
+- conference announcement: information about the event sent to potential attendees
+- conference update: new information about the event
+- conference deadline: the last date to register or submit materials
+- conference policy: rules and guidelines for the event
+- conference etiquette: expected behavior at the event
+- conference dress code: guidelines for what to wear
+- conference meal: food provided during the event
+- conference break: a scheduled pause between sessions
+- conference networking: activities to meet and connect with others
+- conference highlight: a notable or important part of the event
+- conference recap: a summary of what happened at the event
+- conference follow-up: actions taken after the event
+- conference archive: a collection of past event materials
+- conference registration form: the document used to sign up
+- conference payment: the process of paying to attend
+- conference refund: returning money for a canceled registration
+- conference waitlist: a list of people waiting for a spot
+- conference attendance: the act of being present at the event
+- conference speaker: a person giving a talk
+- conference moderator: a person leading a session or discussion
+- conference panelist: a person participating in a panel discussion
+- conference exhibitor: a person or company showing products or services
+- conference attendee: a person attending the event
+- conference organizer: the person or group planning the event
+- conference session: a single meeting or presentation
+- conference venue: the place where the event is held
+- conference logistics: the planning and coordination of the event
+- conference registration fee: the cost to attend
+- conference ID: a unique number or badge for participants
+- conference handbook: a guide with event information
+- conference proceedings: the official record of the event

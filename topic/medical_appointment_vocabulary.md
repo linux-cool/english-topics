@@ -1,0 +1,107 @@
+# Medical Appointment Vocabulary (with explanations)
+
+- appointment: a scheduled meeting with a doctor or medical professional
+- symptoms: physical or mental signs indicating a possible illness or condition
+- diagnosis: the identification of a disease or condition by a doctor
+- prescription: a written order from a doctor for specific medicine or treatment
+- treatment: medical care given to a patient for an illness or injury
+- specialist: a doctor with advanced training in a particular area of medicine
+- insurance: a system for paying medical costs through regular payments to a company
+- referral: a recommendation from a general doctor to see a specialist
+- examination: a detailed check of a patient’s body or health
+- follow-up: a later appointment to check progress after initial treatment
+- medical history: a record of a patient’s past illnesses, treatments, and surgeries
+- check-up: a routine medical examination to assess general health
+- consultation: a meeting with a doctor to discuss symptoms or treatment options
+- vaccination: an injection that protects against specific diseases
+- blood test: a laboratory analysis of a blood sample
+- X-ray: a medical imaging technique to view inside the body
+- MRI: a scan that uses magnetic fields to create detailed images of organs and tissues
+- allergy: a reaction by the immune system to certain substances
+- chronic: a condition that lasts for a long time or is recurring
+- acute: a condition with a rapid onset and severe symptoms
+- emergency: a serious, unexpected medical situation requiring immediate attention
+- nurse: a healthcare professional who assists doctors and cares for patients
+- receptionist: a person who schedules appointments and manages patient records at a clinic
+- waiting room: an area where patients wait before seeing a doctor
+- medical record: a file containing a patient’s health information
+- health insurance card: a card showing proof of medical insurance
+- co-pay: a fixed amount paid by a patient for medical services, with the rest covered by insurance
+- deductible: the amount a patient must pay before insurance covers costs
+- out-of-pocket: expenses paid directly by the patient, not covered by insurance
+- consent form: a document signed by a patient agreeing to treatment
+- side effects: unintended reactions to medication or treatment
+- dosage: the amount of medicine to be taken at one time
+- pharmacy: a place where medicines are prepared and sold
+- pharmacist: a professional who dispenses medication and advises on its use
+- medical certificate: a document from a doctor confirming illness or fitness
+- sick note: a note from a doctor stating that a patient is unable to work
+- physical therapy: treatment to restore movement and function after injury or illness
+- rehabilitation: a program to help a patient recover from illness or surgery
+- surgery: a medical operation to treat or remove a problem
+- anesthesia: medication used to prevent pain during surgery
+- discharge: the release of a patient from a hospital or clinic
+- inpatient: a patient who stays in a hospital for treatment
+- outpatient: a patient who receives treatment without staying overnight
+- waiting list: a list of patients waiting for an appointment or procedure
+- consultation fee: the cost of meeting with a doctor
+- medical certificate: a document confirming a patient’s health status
+- second opinion: advice from another doctor about a diagnosis or treatment
+- prognosis: the likely outcome or course of a disease
+- recovery: the process of getting better after illness or treatment
+- immunization: another term for vaccination
+- general practitioner (GP): a doctor who provides primary care for a wide range of health issues
+- urgent care: medical care for conditions that require prompt attention but are not emergencies
+- walk-in clinic: a medical facility where patients can see a doctor without an appointment
+- triage: the process of determining the priority of patients’ treatments based on severity
+- blood pressure: the force of blood against the walls of the arteries
+- pulse: the rhythmic beating of the heart felt in the arteries
+- stethoscope: a medical instrument used to listen to heart and lung sounds
+- thermometer: a device used to measure body temperature
+- medical chart: a record of a patient’s medical care and progress
+- health screening: tests to detect potential health problems early
+- vaccination schedule: a timetable for receiving vaccines
+- medical insurance: a policy that covers the cost of medical care
+- patient portal: an online system for patients to access their health information
+- telemedicine: medical consultations conducted remotely via phone or video
+- prescription refill: obtaining more of a medication previously prescribed
+- over-the-counter: medicines available without a prescription
+- medical emergency: a sudden, serious health problem requiring immediate care
+- paramedic: a healthcare professional who provides emergency treatment outside the hospital
+- ambulance: a vehicle equipped to transport sick or injured people to the hospital
+- intensive care unit (ICU): a hospital unit for patients needing close monitoring
+- medical bill: a statement of charges for medical services
+- health questionnaire: a form asking about a patient’s health history and habits
+- medical consent: permission given by a patient for treatment
+- waiting time: the period a patient waits before seeing a doctor
+- appointment reminder: a message to remind a patient of an upcoming appointment
+- medical advice: guidance from a healthcare professional
+- prescription drug: medicine that requires a doctor’s written order
+- medical procedure: a specific medical action or operation
+- health check: a general assessment of a person’s health
+- patient ID: a unique number assigned to a patient for identification
+- medical referral: a recommendation to see a specialist
+- health assessment: an evaluation of a person’s overall health
+- discharge summary: a report given to a patient when leaving the hospital
+- follow-up appointment: a later meeting to check on a patient’s progress
+- medical insurance claim: a request for payment from an insurance company for medical services
+- health care provider: a person or organization that delivers medical services
+- medical expense: the cost of medical care
+- patient confidentiality: the right of patients to have their health information kept private
+- medical ethics: moral principles guiding medical practice
+- clinical trial: a research study to test new treatments or drugs
+- informed consent: agreement to treatment after being informed of the risks and benefits
+- medical specialist: a doctor with advanced training in a specific field
+- health maintenance: actions taken to preserve good health
+- chronic disease management: ongoing care for long-term health conditions
+- medical screening: tests to detect diseases early
+- patient satisfaction: how happy patients are with their medical care
+- health outcome: the result of medical treatment or intervention
+- medical malpractice: professional negligence by a healthcare provider
+- patient advocate: someone who supports and speaks up for patients’ interests
+- medical record number: a unique identifier for a patient’s medical file
+- health literacy: the ability to understand and use health information
+- medical terminology: specialized language used in medicine
+- medical research: scientific studies to improve health care
+- patient rights: legal and ethical entitlements of patients
+- health care system: the organization of people and resources to deliver health care

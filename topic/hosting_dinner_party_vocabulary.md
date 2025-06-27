@@ -1,0 +1,107 @@
+# Hosting a Dinner Party Vocabulary (with explanations)
+
+- invitation: a request for someone to attend an event
+- RSVP: a response to an invitation, indicating whether you will attend
+- menu: a list of food and drinks to be served
+- appetizer: a small dish served before the main course
+- main course: the primary dish in a meal
+- dessert: a sweet course served at the end of a meal
+- host: the person who organizes and welcomes guests
+- guest: a person invited to an event
+- seating arrangement: the plan for where guests will sit
+- toast: a speech or gesture in honor of someone, often with a drink
+- centerpiece: a decorative item placed in the center of a table
+- place setting: the arrangement of plates, glasses, and utensils for one person
+- tableware: dishes, glasses, and utensils used at a meal
+- cutlery: knives, forks, and spoons
+- napkin: a piece of cloth or paper for wiping the mouth and hands
+- course: one part of a meal
+- wine pairing: selecting wines to complement each course
+- potluck: a meal where each guest brings a dish to share
+- buffet: a meal where guests serve themselves from a variety of dishes
+- formal dinner: a meal with strict rules for dress and behavior
+- casual dinner: a relaxed meal with fewer rules
+- dietary restriction: a limitation on what someone can eat
+- vegetarian: a person who does not eat meat
+- vegan: a person who does not eat any animal products
+- allergy: a negative reaction to certain foods
+- RSVP deadline: the last date to respond to an invitation
+- guest list: a list of people invited to an event
+- party favor: a small gift given to guests
+- host gift: a present brought by a guest for the host
+- tablecloth: a cloth covering for a table
+- serving dish: a large dish used to present food
+- serving utensils: tools for serving food, such as spoons and tongs
+- wine glass: a glass used for drinking wine
+- water glass: a glass used for drinking water
+- charger plate: a decorative plate placed under the dinner plate
+- bread basket: a container for serving bread
+- salad bowl: a bowl for serving salad
+- soup tureen: a large, deep dish for serving soup
+- decanter: a vessel for serving wine or other drinks
+- ice bucket: a container for holding ice
+- candlelight: lighting provided by candles, often for ambiance
+- music playlist: a list of songs to be played during the event
+- ambiance: the mood or atmosphere of an event
+- conversation starter: a topic or question to begin a discussion
+- small talk: casual conversation about unimportant topics
+- etiquette: the rules for polite behavior
+- thank-you note: a message expressing gratitude after an event
+- leftovers: food remaining after a meal
+- clean-up: the process of tidying up after an event
+- after-dinner drink: a beverage served after the meal
+- party theme: a central idea or style for the event
+- dress code: guidelines for what guests should wear
+- invitation card: a printed or digital card inviting someone to an event
+- RSVP card: a card for guests to reply to an invitation
+- host duties: the responsibilities of organizing and running the event
+- guest of honor: the person for whom the event is held
+- welcome speech: a short address to greet guests
+- icebreaker: an activity or question to help guests relax
+- seating chart: a diagram showing where each guest will sit
+- place card: a card with a guest’s name indicating their seat
+- serving course: the act of bringing each part of the meal to the table
+- timing: planning when each part of the event will happen
+- meal prep: preparing food before the event
+- recipe: instructions for making a dish
+- potluck sign-up: a list for guests to indicate what dish they will bring
+- RSVP reminder: a message to prompt guests to reply
+- party planner: a person or tool for organizing events
+- event coordinator: a professional who manages event details
+- party budget: the amount of money set aside for the event
+- shopping list: a list of items to buy for the event
+- food allergy: a medical condition causing a reaction to certain foods
+- food intolerance: difficulty digesting certain foods
+- food label: information about ingredients and nutrition
+- portion size: the amount of food served to each person
+- serving size: the recommended amount of food per person
+- food presentation: the way food is arranged and displayed
+- garnish: a decorative addition to food
+- plating: arranging food on a plate
+- table manners: polite behavior at the table
+- conversation flow: the natural progression of discussion
+- party games: activities for entertainment
+- music volume: the loudness of background music
+- lighting: the arrangement of lights for mood and visibility
+- party timeline: a schedule of events during the party
+- RSVP confirmation: a message confirming attendance
+- guest arrival time: when guests are expected to arrive
+- party end time: when the event is expected to finish
+- party clean-up crew: people helping to tidy up after the event
+- food storage: keeping leftovers safe to eat later
+- recycling: disposing of waste in an environmentally friendly way
+- party review: feedback or evaluation of the event
+- event recap: a summary of what happened at the event
+- host checklist: a list of tasks for the host to complete
+- guest feedback: comments from guests about the event
+- party success: achieving the goals of the event
+- memorable moment: a highlight or special part of the event
+- party tradition: a custom or repeated activity at events
+- RSVP response: a guest’s reply to an invitation
+- party invitation wording: the language used on invitations
+- event location: the place where the event is held
+- party supplies: items needed for the event
+- event schedule: the timetable for the event
+- party logistics: the planning and coordination of the event
+- event sponsor: a person or company supporting the event
+- party host: the person responsible for the event

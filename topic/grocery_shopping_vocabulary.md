@@ -1,0 +1,115 @@
+# Grocery Shopping Vocabulary (with explanations)
+
+- aisle: a passage between rows of shelves in a store
+- cashier: a person who receives and processes payments at a store
+- receipt: a printed statement showing what was bought and how much was paid
+- discount: a reduction in the usual price of something
+- organic: food produced without synthetic chemicals or pesticides
+- expiration date: the last date a product is considered safe to use
+- brand: a type of product made by a particular company
+- bulk: buying goods in large quantities, often at a lower price
+- checkout: the place where you pay for your groceries
+- loyalty card: a card that gives customers rewards for shopping at a store
+- shopping cart: a wheeled basket for carrying groceries while shopping
+- basket: a handheld container for carrying groceries
+- barcode: a machine-readable code on products for pricing and inventory
+- shelf: a flat surface for displaying products in a store
+- stock: the supply of goods available for sale
+- inventory: a complete list of items in a store
+- produce: fresh fruits and vegetables
+- dairy: products made from milk, such as cheese and yogurt
+- bakery: a section of the store selling bread and baked goods
+- deli: a section selling prepared foods, meats, and cheeses
+- frozen foods: products kept frozen until sold
+- canned goods: food preserved in cans
+- grocery list: a written or digital list of items to buy
+- in stock: available for purchase
+- out of stock: not available for purchase
+- sale: a period when items are sold at reduced prices
+- special offer: a temporary deal or promotion on certain products
+- coupon: a voucher giving a discount on a product
+- price tag: a label showing the cost of an item
+- unit price: the cost per standard amount (e.g., per kilogram)
+- self-checkout: a machine where customers scan and pay for items themselves
+- bagger: a person who puts groceries into bags at checkout
+- reusable bag: a bag that can be used multiple times for shopping
+- plastic bag: a disposable bag made of plastic
+- paper bag: a disposable bag made of paper
+- return policy: the rules for returning purchased items
+- refund: money returned for a returned item
+- exchange: swapping one purchased item for another
+- store hours: the times when a store is open
+- customer service: the help provided to shoppers by store staff
+- manager: the person in charge of the store
+- price match: a store’s policy to match a competitor’s lower price
+- rain check: a promise to sell an out-of-stock item at the sale price when it’s available
+- clearance: items sold at very low prices to clear out inventory
+- sample: a small portion of a product offered for tasting
+- nutrition label: information on a package about the food’s nutrients
+- calorie: a unit of energy in food
+- gluten-free: food that does not contain gluten
+- vegan: food that contains no animal products
+- non-GMO: food not made with genetically modified organisms
+- fair trade: products certified as produced under fair labor conditions
+- local produce: fruits and vegetables grown nearby
+- seasonal: food available only at certain times of the year
+- perishable: food that spoils quickly
+- shelf life: the length of time a product can be stored before it goes bad
+- restock: to refill shelves with products
+- shopping basket: another term for a handheld container for groceries
+- shopping spree: buying a lot of items in a short time
+- impulse buy: an unplanned purchase
+- shopping budget: the amount of money set aside for groceries
+- price comparison: checking prices of similar items at different stores
+- store brand: a product made and sold under a store’s own label
+- name brand: a product made by a well-known company
+- organic certification: official approval that food is organic
+- food safety: practices to keep food safe to eat
+- best before date: the date by which food should be consumed for best quality
+- food waste: food that is thrown away instead of eaten
+- shopping receipt: another term for a printed statement of purchase
+- express lane: a checkout line for customers with few items
+- shopping experience: the overall feeling and satisfaction from shopping
+- store layout: the arrangement of aisles and sections in a store
+- shopping habits: regular patterns in how a person shops
+- shopping companion: someone who shops with you
+- shopping trip: a visit to a store to buy groceries
+- shopping destination: a place known for shopping
+- shopping mall: a large building with many stores
+- shopping center: a group of stores in one location
+- shopping district: an area with many stores
+- shopping basket total: the total cost of all items in the basket
+- shopping app: a mobile application for buying groceries
+- online grocery: buying groceries via the internet
+- curbside pickup: collecting groceries from a store without entering
+- home delivery: groceries brought to your home by the store
+- order confirmation: proof that an order has been placed
+- delivery window: the time period when groceries will be delivered
+- minimum purchase: the smallest amount you must spend to qualify for a deal
+- out-of-date: food that is past its expiration date
+- restocking fee: a charge for returning certain items
+- store credit: money credited to your account for returns
+- shopping receipt: a document showing what was bought and how much was paid
+- shopping aisle: a passage between shelves in a store
+- shopping trolley: another term for a shopping cart
+- shopping voucher: a certificate for a discount or free item
+- shopping survey: a questionnaire about your shopping experience
+- shopping trend: a pattern in what people are buying
+- shopping forecast: a prediction of future shopping habits
+- shopping basket analysis: studying what items are bought together
+- shopping loyalty program: a rewards system for frequent shoppers
+- shopping barcode: a code scanned at checkout for pricing
+- shopping scanner: a device for reading barcodes
+- shopping register: the machine used to record sales
+- shopping till: another term for a cash register
+- shopping float: the cash kept in a register for making change
+- shopping refund policy: the rules for getting your money back
+- shopping exchange policy: the rules for swapping items
+- shopping complaint: a statement about a problem with a purchase
+- shopping feedback: comments about your shopping experience
+- shopping review: an evaluation of a store or product
+- shopping satisfaction: how happy you are with your shopping
+- shopping guarantee: a promise that a product will meet certain standards
+- shopping dispute: a disagreement about a purchase
+- shopping mediation: help from a third party to resolve a shopping dispute
+- shopping arbitration: a legal process to settle a shopping dispute

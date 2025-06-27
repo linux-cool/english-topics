@@ -1,0 +1,98 @@
+# Apartment Hunting Vocabulary (with explanations)
+
+- lease: a legal agreement that allows someone to use a property for a specific period in exchange for payment
+- landlord: a person who owns and rents out property
+- tenant: a person who rents and lives in a property owned by someone else
+- utilities: services such as water, electricity, and gas supplied to a home
+- deposit: a sum of money paid in advance to secure a rental property, often refundable
+- furnished: a property that comes with furniture provided by the landlord
+- amenities: features or services that add comfort or convenience to a property (e.g., gym, pool)
+- neighborhood: the area or community around a property
+- contract: a legally binding agreement between two or more parties
+- inspection: an official visit to check the condition of a property
+- real estate agent: a professional who helps people buy, sell, or rent properties
+- application: a formal request to rent a property
+- background check: an investigation into a tenant’s history, often including credit and criminal records
+- credit score: a number that represents a person’s financial reliability
+- reference: a person who can vouch for a tenant’s character or reliability
+- rent: the amount of money paid regularly to live in a property
+- roommate: a person who shares a rental property with another
+- sublet: to rent a property that you are already renting to another person
+- eviction: the legal process of removing a tenant from a property
+- maintenance: the work required to keep a property in good condition
+- security system: equipment designed to protect a property from theft or damage
+- parking space: a designated area for parking a vehicle
+- pet policy: rules regarding whether pets are allowed in a property
+- noise regulations: rules about acceptable noise levels in a property
+- move-in date: the agreed date when a tenant can start living in a property
+- move-out notice: advance warning given before leaving a rental property
+- rent increase: a rise in the amount of rent charged
+- utilities included: when the cost of services like water and electricity is part of the rent
+- unfurnished: a property that does not include furniture
+- studio apartment: a small apartment with one main room
+- one-bedroom: an apartment with a separate bedroom
+- high-rise: a tall building with many floors
+- low-rise: a building with only a few floors
+- balcony: an outdoor space attached to an apartment
+- elevator: a lift used to move between floors in a building
+- ground floor: the floor of a building at street level
+- lease term: the length of time a lease agreement lasts
+- renewal: extending the period of a lease
+- breach of contract: failure to follow the terms of a lease
+- property manager: a person or company that manages rental properties
+- application fee: a charge for processing a rental application
+- guarantor: a person who agrees to pay the rent if the tenant cannot
+- utilities bill: a statement showing the cost of services like water and electricity
+- rent receipt: a document showing that rent has been paid
+- damage deposit: money paid to cover any damage to the property
+- walk-through: an inspection of a property before moving in or out
+- rental listing: an advertisement for a property available to rent
+- open house: a scheduled time when a property is available for viewing
+- housing market: the supply and demand for rental properties in an area
+- affordable housing: rental properties that are reasonably priced
+- tenant rights: legal protections for people who rent property
+- landlord responsibilities: legal obligations of property owners
+- eviction notice: a formal letter telling a tenant to leave a property
+- rent control: government regulations that limit rent increases
+- sublease agreement: a contract allowing a tenant to rent to another person
+- application process: the steps required to apply for a rental property
+- background screening: checking a tenant’s history before approval
+- rental history: a record of a tenant’s previous rental experiences
+- property viewing: visiting a property to see if it meets your needs
+- security deposit refund: returning the deposit if no damage is found
+- maintenance request: a formal request for repairs or upkeep
+- lease violation: breaking the rules of a rental agreement
+- tenant association: a group representing the interests of tenants
+- rent arrears: overdue rent payments
+- fixed-term lease: a lease with a set end date
+- month-to-month lease: a lease that renews each month
+- utilities transfer: changing utility accounts to a new tenant’s name
+- rental agreement: a written contract between landlord and tenant
+- housing discrimination: unfair treatment based on race, gender, etc.
+- fair housing laws: laws that protect against housing discrimination
+- property tax: a tax paid by property owners
+- mortgage: a loan used to buy property
+- real estate market: the overall market for buying, selling, and renting property
+- relocation: moving to a new place to live
+- short-term rental: renting a property for a brief period
+- long-term rental: renting a property for an extended period
+- furnished apartment: an apartment with furniture included
+- unfurnished apartment: an apartment without furniture
+- lease renewal: extending the lease for another term
+- rent negotiation: discussing the terms or amount of rent
+- property tour: a guided visit of a property
+- application approval: being accepted as a tenant
+- rental scam: a fraudulent rental offer
+- tenant insurance: insurance that covers a tenant’s belongings
+- property amenities: features like a gym, pool, or laundry room
+- shared accommodation: living with others in the same property
+- single occupancy: living alone in a property
+- double occupancy: two people living in a property
+- rental contract: another term for a lease agreement
+- housing allowance: money provided to help pay for housing
+- property inspection: a check of the property’s condition
+- rent due date: the day rent must be paid
+- late fee: a charge for paying rent after the due date
+- property owner: the person who owns the property
+- rental application: a form used to apply for a rental property
+- lease agreement: a contract outlining the terms of renting a property

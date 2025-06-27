@@ -1,0 +1,102 @@
+# Making a Complaint Vocabulary (with explanations)
+
+- complaint: a statement that something is wrong or unsatisfactory
+- dissatisfaction: the feeling of not being happy with something
+- refund: money returned to a customer for a returned or unsatisfactory product
+- compensation: something, often money, given to make up for a loss or problem
+- customer service: the help and support provided to customers
+- defective: not working properly or as intended
+- warranty: a written guarantee to repair or replace a faulty product
+- escalate: to raise a problem to a higher authority or level
+- resolution: a solution to a problem or dispute
+- apology: an expression of regret for a mistake or problem
+- policy: a set of rules or guidelines
+- receipt: a document showing proof of purchase
+- exchange: returning a product and receiving another in its place
+- replacement: a new item given instead of a faulty one
+- manager: the person in charge of a store or department
+- hotline: a phone number for urgent customer support
+- complaint form: a document for submitting a formal complaint
+- feedback: comments or suggestions about a product or service
+- service recovery: actions taken to fix a problem and restore customer satisfaction
+- goodwill gesture: something extra given to a customer to apologize for a problem
+- dispute: a disagreement or argument
+- mediation: a process where a neutral third party helps resolve a dispute
+- arbitration: a legal process to settle a dispute outside of court
+- consumer rights: legal protections for buyers of goods and services
+- guarantee: a promise that a product will meet certain standards
+- terms and conditions: the rules and agreements for using a product or service
+- complaint procedure: the steps for making and resolving a complaint
+- product recall: when a company asks customers to return a faulty product
+- service failure: when a service does not meet expectations
+- complaint department: the part of a company that handles complaints
+- unsatisfactory: not good enough or not meeting expectations
+- compensation claim: a request for money or benefits due to a problem
+- proof of purchase: evidence that you bought a product
+- store credit: money credited to your account for future purchases
+- customer satisfaction: how happy customers are with a product or service
+- complaint resolution: the process of solving a complaint
+- complaint tracking: monitoring the progress of a complaint
+- complaint reference number: a unique number for identifying a complaint
+- product defect: a fault or problem with a product
+- service delay: when a service takes longer than expected
+- delivery issue: a problem with the arrival of a product
+- return policy: the rules for returning products
+- exchange policy: the rules for swapping products
+- complaint escalation: raising a complaint to a higher level
+- customer loyalty: a customer’s willingness to continue buying from a company
+- negative review: a public statement expressing dissatisfaction
+- online complaint: a complaint made via the internet
+- complaint letter: a written statement of dissatisfaction
+- complaint call: a phone call to report a problem
+- complaint email: an email sent to report a problem
+- complaint resolution team: the group responsible for solving complaints
+- complaint log: a record of all complaints received
+- complaint status: the current stage of a complaint
+- complaint outcome: the result of a complaint
+- complaint follow-up: checking back after a complaint is made
+- complaint satisfaction survey: a questionnaire about how a complaint was handled
+- complaint hotline: a phone number for urgent complaints
+- complaint portal: an online system for submitting complaints
+- complaint department: the part of a company that handles complaints
+- complaint investigation: looking into the details of a complaint
+- complaint settlement: an agreement to resolve a complaint
+- complaint withdrawal: canceling a complaint
+- complaint compensation: money or benefits given for a complaint
+- complaint handling: the process of dealing with complaints
+- complaint management: organizing and resolving complaints
+- complaint record: a file of all complaints made
+- complaint statistics: data about complaints received and resolved
+- complaint training: teaching staff how to handle complaints
+- complaint policy: the rules for dealing with complaints
+- complaint process: the steps for making and resolving a complaint
+- complaint response: the reply to a complaint
+- complaint time frame: the period in which a complaint should be resolved
+- complaint verification: checking the facts of a complaint
+- complaint witness: someone who saw or experienced the problem
+- complaint evidence: proof supporting a complaint
+- complaint documentation: written records of a complaint
+- complaint review: an evaluation of how a complaint was handled
+- complaint improvement: changes made to prevent future complaints
+- complaint prevention: actions to stop complaints from happening
+- complaint satisfaction: how happy a customer is with the complaint outcome
+- complaint transparency: openness about how complaints are handled
+- complaint accountability: responsibility for resolving complaints
+- complaint communication: how information about a complaint is shared
+- complaint escalation procedure: the steps for raising a complaint to higher levels
+- complaint closure: the final resolution of a complaint
+- complaint notification: informing a customer about the status of a complaint
+- complaint appeal: asking for a review of a complaint decision
+- complaint mediation: using a neutral third party to resolve a complaint
+- complaint arbitration: a legal process to settle a complaint
+- complaint settlement agreement: a formal agreement to resolve a complaint
+- complaint compensation offer: a proposal to resolve a complaint with money or benefits
+- complaint satisfaction guarantee: a promise to resolve complaints to the customer’s satisfaction
+- complaint improvement plan: steps to prevent similar complaints in the future
+- complaint monitoring: keeping track of complaints and their resolution
+- complaint reporting: providing information about complaints to management
+- complaint statistics report: a summary of complaint data
+- complaint trend analysis: studying patterns in complaints over time
+- complaint root cause analysis: finding the underlying reason for complaints
+- complaint corrective action: steps taken to fix the cause of complaints
+- complaint prevention plan: actions to stop complaints from recurring
