@@ -1,0 +1,112 @@
+# Banking Services Vocabulary (with explanations)
+
+- account: a record of financial transactions at a bank
+- transaction: an instance of buying, selling, or transferring money
+- withdrawal: taking money out of a bank account
+- deposit: putting money into a bank account
+- interest rate: the percentage charged or paid for the use of money
+- loan: money borrowed from a bank that must be repaid with interest
+- overdraft: spending more money than is available in an account
+- statement: a summary of all transactions in an account over a period
+- branch: a local office or location of a bank
+- online banking: managing bank accounts via the internet
+- ATM (Automated Teller Machine): a machine for withdrawing or depositing cash
+- PIN (Personal Identification Number): a secret code for accessing accounts
+- credit card: a card allowing purchases on borrowed money
+- debit card: a card allowing purchases using money from your account
+- balance: the amount of money in an account
+- transfer: moving money from one account to another
+- direct debit: an arrangement to pay bills automatically from your account
+- standing order: a regular payment of a fixed amount from your account
+- mortgage: a loan to buy property, secured by the property itself
+- savings account: an account for storing money and earning interest
+- checking account: an account for daily transactions
+- fixed deposit: money deposited for a set period at a fixed interest rate
+- mobile banking: managing accounts using a smartphone app
+- bank charges: fees for using banking services
+- currency exchange: converting one currency to another
+- remittance: sending money to another country
+- beneficiary: the person who receives money from a transfer
+- payee: the person or organization to whom money is paid
+- cheque: a written order to pay money from a bank account
+- cashier’s check: a check guaranteed by a bank
+- wire transfer: an electronic transfer of money
+- SWIFT code: a unique identifier for banks in international transfers
+- IBAN (International Bank Account Number): a standard international numbering system for bank accounts
+- account holder: the person who owns a bank account
+- joint account: an account shared by two or more people
+- minimum balance: the lowest amount required to keep an account open
+- service fee: a charge for using a bank’s services
+- overdraft protection: a service to prevent transactions that exceed the account balance
+- credit limit: the maximum amount that can be borrowed on a credit card
+- cash advance: withdrawing cash using a credit card
+- interest-free period: the time during which no interest is charged on a credit card
+- annual fee: a yearly charge for holding a credit card
+- bank statement: a monthly summary of account activity
+- account number: a unique number identifying a bank account
+- sort code: a number used to identify a bank branch
+- security question: a question used to verify identity
+- fraud: wrongful or criminal deception for financial gain
+- identity theft: stealing someone’s personal information for financial gain
+- account closure: ending a bank account
+- customer service: assistance provided by the bank to its customers
+- financial advisor: a professional who gives financial advice
+- investment: putting money into something to earn a profit
+- portfolio: a collection of financial investments
+- asset: something valuable owned by a person or company
+- liability: money owed; a financial obligation
+- net worth: the total value of assets minus liabilities
+- credit score: a number representing a person’s creditworthiness
+- credit history: a record of a person’s borrowing and repayment
+- loan application: the process of requesting a loan
+- collateral: something pledged as security for a loan
+- default: failure to repay a loan
+- foreclosure: taking possession of a property when a loan is not repaid
+- bankruptcy: a legal process for people or businesses that cannot repay debts
+- financial literacy: understanding how money works
+- budgeting: planning how to spend and save money
+- financial planning: setting goals for managing money
+- retirement account: an account for saving money for retirement
+- pension: a regular payment made during retirement
+- annuity: a fixed sum of money paid regularly, often for life
+- inheritance: money or property received from someone who has died
+- trust fund: money set aside for a specific purpose, managed by a trustee
+- endowment: a donation of money or property to an institution
+- escrow: money held by a third party until certain conditions are met
+- wire fraud: fraud involving electronic money transfers
+- phishing: a scam to obtain sensitive information by pretending to be a trustworthy entity
+- two-factor authentication: an extra layer of security for online accounts
+- mobile wallet: an app for storing payment information on a phone
+- contactless payment: paying by tapping a card or phone
+- QR code payment: paying by scanning a code with a phone
+- digital currency: money that exists only electronically
+- cryptocurrency: a digital currency using cryptography for security
+- blockchain: a digital ledger for recording transactions
+- financial regulation: laws and rules governing financial institutions
+- anti-money laundering: measures to prevent illegal money transfers
+- compliance: following laws and regulations
+- audit: an official inspection of financial records
+- tax return: a form filed to report income and calculate taxes owed
+- tax deduction: an expense that reduces taxable income
+- tax refund: money returned by the government after taxes are filed
+- financial statement: a summary of financial activity
+- profit and loss statement: a report showing income and expenses
+- balance sheet: a statement of assets, liabilities, and net worth
+- cash flow: the movement of money in and out of an account
+- financial goal: a target for saving or investing money
+- risk tolerance: the level of risk a person is willing to take with investments
+- diversification: spreading investments to reduce risk
+- market volatility: fluctuations in the value of investments
+- stock market: a place where shares of companies are bought and sold
+- bond: a fixed income investment representing a loan to a borrower
+- mutual fund: a pool of money from many investors to buy securities
+- dividend: a payment made to shareholders from company profits
+- capital gain: profit from selling an asset for more than its purchase price
+- financial crisis: a situation where financial assets lose value rapidly
+- bailout: financial support to prevent the failure of an institution
+- monetary policy: government actions to control the money supply
+- inflation: the rise in prices over time
+- deflation: the fall in prices over time
+- recession: a period of economic decline
+- economic growth: an increase in the production of goods and services
+- GDP (Gross Domestic Product): the total value of goods and services produced in a country

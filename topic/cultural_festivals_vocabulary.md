@@ -1,0 +1,92 @@
+# Cultural Festivals Vocabulary (with explanations)
+
+- festival: a day or period of celebration, often with cultural or religious significance
+- tradition: a custom or belief passed down through generations
+- parade: a public procession, often with music and costumes
+- ceremony: a formal event performed on important occasions
+- ritual: a series of actions performed according to a prescribed order
+- heritage: the cultural legacy handed down from the past
+- celebration: an event to mark a special occasion
+- costume: special clothes worn for festivals or performances
+- performance: an act of presenting music, dance, or drama
+- fireworks: explosive devices used for visual displays during celebrations
+- lantern: a light source, often used in festivals
+- procession: a group of people moving forward in an orderly way
+- feast: a large meal, typically for many people and special occasions
+- mask: a covering for the face, often worn during festivals
+- float: a decorated platform, often part of a parade
+- folk dance: a traditional dance representing a community or region
+- music ensemble: a group of musicians performing together
+- crafts: handmade objects, often sold at festivals
+- vendor: a person selling goods at a festival
+- fair: a gathering with entertainment, food, and activities
+- booth: a small stall or stand at a festival
+- ticket: a pass allowing entry to an event
+- admission: the act of entering a festival or event
+- schedule: a plan of events or performances
+- highlight: the most exciting or important part of an event
+- opening ceremony: the event that marks the start of a festival
+- closing ceremony: the event that marks the end of a festival
+- cultural exchange: sharing traditions and customs between cultures
+- international: involving more than one country
+- local: relating to a particular area or community
+- sponsor: a person or organization that supports an event financially
+- volunteer: a person who offers to help without pay
+- organizer: a person or group that plans and manages the festival
+- stage: the area where performances take place
+- audience: people who watch or listen to a performance
+- ticket booth: a place where tickets are sold
+- souvenir: an object kept as a reminder of an event
+- tradition bearer: someone who maintains and passes on traditions
+- storytelling: the act of telling stories, often part of festivals
+- culinary: related to cooking or food, often featured in festivals
+- multicultural: involving several cultural or ethnic groups
+- unity: the state of being joined as a whole, often celebrated in festivals
+- diversity: the presence of different cultures or groups
+- reenactment: acting out a past event, often part of historical festivals
+- harvest festival: a celebration marking the gathering of crops
+- religious festival: a celebration based on religious beliefs
+- secular festival: a non-religious celebration
+- public holiday: a day when most people do not work, often for a festival
+- itinerary: a planned route or journey, sometimes for festival tours
+- crowd: a large group of people gathered for an event
+- security: measures taken to keep people safe at festivals
+- ticket price: the cost of entry to a festival
+- festival-goer: a person who attends festivals
+- main event: the most important activity at a festival
+- side event: additional activities at a festival
+- cultural showcase: a display of cultural performances or crafts
+- art installation: a work of art set up for public viewing at a festival
+- light show: a visual display using lights, often part of festivals
+- dance troupe: a group of dancers performing together
+- food stall: a stand selling food at a festival
+- traditional attire: clothing worn to represent cultural heritage
+- festival grounds: the area where a festival takes place
+- ticket reservation: booking a ticket in advance
+- festival program: a booklet or schedule listing festival events
+- festival committee: the group responsible for organizing the festival
+- festival sponsor: an individual or company supporting the festival
+- festival tradition: a custom or practice unique to a festival
+- festival season: the time of year when many festivals occur
+- festival atmosphere: the mood or feeling at a festival
+- festival circuit: a series of festivals attended by performers or vendors
+- festival pass: a ticket allowing entry to multiple events
+- festival map: a guide to the festival layout
+- festival etiquette: polite behavior expected at festivals
+- festival highlight: the most memorable part of a festival
+- festival cancellation: when a festival is called off
+- festival review: an evaluation or report on a festival
+- festival preview: information about an upcoming festival
+- festival tradition: a practice or custom unique to a festival
+- festival volunteer: someone who helps run a festival without pay
+- festival organizer: a person or group that plans the festival
+- festival performer: someone who entertains at a festival
+- festival audience: people who attend and watch festival events
+- festival souvenir: an item bought or given as a memory of a festival
+- festival experience: the overall impression of attending a festival
+- festival safety: measures to protect festival-goers
+- festival logistics: the planning and coordination of festival activities
+- festival funding: money provided to support a festival
+- festival partnership: collaboration between organizations for a festival
+- festival promotion: advertising and publicizing a festival
+- festival legacy: the lasting impact of a festival

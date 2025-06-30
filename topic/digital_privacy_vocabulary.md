@@ -1,0 +1,91 @@
+# Digital Privacy Vocabulary (with explanations)
+
+- encryption: the process of converting information into a code to prevent unauthorized access
+- data breach: an incident where sensitive information is accessed without permission
+- consent: permission for something to happen or agreement to do something
+- surveillance: close observation, especially of people or data
+- firewall: a security system that controls incoming and outgoing network traffic
+- password: a secret word or phrase used to access a system
+- identity theft: the fraudulent use of someone else’s personal information
+- privacy policy: a statement explaining how personal data is collected and used
+- malware: software designed to harm or exploit computer systems
+- authentication: the process of verifying identity
+- phishing: a scam to trick people into giving personal information
+- two-factor authentication: an extra layer of security requiring two forms of identification
+- cookie: a small file stored on a user’s computer by a website
+- tracking: monitoring user activity online
+- VPN (Virtual Private Network): a service that encrypts internet traffic and hides your IP address
+- spyware: software that secretly collects information about a user
+- ad blocker: a tool that prevents advertisements from appearing on websites
+- social engineering: manipulating people into giving up confidential information
+- cybercrime: criminal activities carried out using computers or the internet
+- personal data: information that can identify an individual
+- GDPR (General Data Protection Regulation): a European law protecting personal data
+- data retention: storing data for a certain period
+- data minimization: collecting only the data that is necessary
+- anonymization: removing personal identifiers from data
+- digital footprint: the information about a person that exists on the internet
+- privacy settings: options to control who can see your information online
+- public Wi-Fi: wireless internet available to the public, often less secure
+- secure connection: an internet connection that is protected from unauthorized access
+- password manager: a tool for storing and managing passwords securely
+- security question: a question used to verify identity
+- breach notification: informing users about a data breach
+- cyberattack: an attempt to damage or gain unauthorized access to a computer system
+- ransomware: malware that locks data and demands payment for its release
+- social media privacy: protecting personal information on social networks
+- location tracking: monitoring a person’s physical location via devices
+- privacy settings: controls for managing who can see your information
+- opt-out: choosing not to participate in data collection
+- opt-in: giving permission to participate in data collection
+- privacy by design: building privacy protections into products and services
+- data controller: the person or organization that determines how data is used
+- data processor: the person or organization that processes data on behalf of the controller
+- right to be forgotten: the right to have personal data removed from the internet
+- data portability: the ability to move personal data from one service to another
+- privacy breach: a violation of privacy rights
+- user agreement: a contract between a user and a service provider
+- device security: measures to protect smartphones, computers, and tablets
+- anti-virus software: a program that detects and removes malware
+- spam: unwanted or unsolicited messages
+- privacy advocate: a person who promotes privacy rights
+- privacy law: legal rules protecting personal information
+- biometric data: unique physical characteristics used for identification
+- facial recognition: technology that identifies people by their face
+- privacy risk: the chance that personal information will be exposed
+- privacy notice: a statement explaining how data is used
+- privacy shield: a framework for protecting data transferred between countries
+- privacy violation: an act that compromises personal privacy
+- privacy audit: an assessment of how well privacy is protected
+- privacy impact assessment: a process to identify and reduce privacy risks
+- privacy breach notification: informing people about a privacy incident
+- privacy settings: options to control access to personal information
+- privacy filter: a screen that limits viewing angles to protect information
+- privacy-conscious: being aware of and taking steps to protect privacy
+- privacy policy update: changes to how personal data is handled
+- privacy regulation: laws and rules about privacy
+- privacy seal: a certification that a company meets privacy standards
+- privacy statement: a declaration of how privacy is protected
+- privacy tool: software or methods to protect privacy
+- privacy training: education on how to protect privacy
+- privacy violation report: a document describing a privacy breach
+- privacy watchdog: an organization that monitors privacy practices
+- privacy zone: an area where privacy is protected
+- private browsing: a browser mode that does not save history or cookies
+- public profile: information about a person that is visible to everyone
+- secure password: a strong password that is hard to guess
+- security breach: an incident where security measures are bypassed
+- security patch: an update to fix security vulnerabilities
+- security protocol: rules for secure communication
+- sensitive data: information that must be protected from unauthorized access
+- session timeout: automatic log-out after a period of inactivity
+- social login: using a social media account to sign in to other services
+- spyware removal: tools or actions to eliminate spyware
+- third-party data: information collected by companies other than the one you interact with
+- tracking cookie: a cookie used to monitor online behavior
+- user consent: permission given by a user for data collection
+- user data: information about a user collected by a service
+- user profile: a summary of a user’s personal information
+- web tracking: monitoring user activity on websites
+- wireless security: protecting wireless networks from unauthorized access
+- zero-knowledge proof: a method of verifying information without revealing the information itself

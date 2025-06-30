@@ -1,0 +1,102 @@
+# Parenting Challenges Vocabulary (with explanations)
+
+- discipline: methods of teaching children self-control and acceptable behavior
+- boundaries: limits set to define acceptable behavior
+- encouragement: positive support to motivate children
+- tantrum: an uncontrolled outburst of anger, often by a child
+- adolescence: the period of life between childhood and adulthood
+- communication: the exchange of information or feelings
+- role model: a person whose behavior is imitated by others
+- responsibility: being accountable for one’s actions
+- independence: the ability to do things on one’s own
+- support system: people who provide help and encouragement
+- conflict resolution: finding peaceful solutions to disagreements
+- time management: organizing and planning how to divide time between activities
+- sibling rivalry: competition or conflict between brothers and sisters
+- peer pressure: influence from people of the same age group
+- self-esteem: confidence in one’s own worth or abilities
+- emotional intelligence: the ability to understand and manage emotions
+- positive reinforcement: rewarding good behavior to encourage its repetition
+- punishment: a consequence for undesirable behavior
+- screen time: the amount of time spent using devices with screens
+- homework: assignments given to students to complete outside of class
+- extracurricular activities: activities outside the regular school curriculum
+- parental involvement: parents’ participation in their children’s lives
+- single parenting: raising a child without a partner
+- blended family: a family with children from previous relationships
+- co-parenting: sharing parenting responsibilities after separation or divorce
+- custody: the legal right to care for a child
+- visitation: the right to spend time with a child
+- child development: the physical, emotional, and mental growth of a child
+- milestone: a significant stage or event in a child’s development
+- learning disability: a condition that affects learning and academic performance
+- special needs: additional requirements for children with disabilities
+- bullying: repeated aggressive behavior intended to hurt another person
+- cyberbullying: bullying that takes place over digital devices
+- parental guidance: advice and direction given by parents
+- open communication: honest and transparent sharing of thoughts and feelings
+- trust: reliance on the integrity or ability of someone
+- respect: consideration for the feelings and rights of others
+- family meeting: a gathering to discuss family issues and make decisions
+- household chores: tasks done to maintain the home
+- bedtime routine: regular activities before going to sleep
+- nutrition: the process of providing or obtaining food for health
+- picky eater: a child who is selective about what they eat
+- reward system: a method of encouraging good behavior with rewards
+- consequence: a result or effect of an action
+- parental authority: the power parents have to make decisions for their children
+- overprotection: excessive shielding of children from harm or difficulty
+- helicopter parenting: overly involved and controlling parenting style
+- permissive parenting: a style with few rules and little discipline
+- authoritarian parenting: a strict parenting style with high demands
+- authoritative parenting: a balanced style with rules and warmth
+- attachment: the emotional bond between a child and caregiver
+- separation anxiety: distress when separated from a parent or caregiver
+- child care: supervision and care of children by adults
+- daycare: a place where children are cared for during the day
+- work-life balance: managing job and family responsibilities
+- parental leave: time off work to care for a child
+- family therapy: counseling to improve family relationships
+- stress management: techniques to control stress
+- resilience: the ability to recover from difficulties
+- adaptability: the ability to adjust to new situations
+- patience: the ability to wait calmly for something
+- empathy: the ability to understand and share another’s feelings
+- discipline strategy: a plan for teaching self-control
+- positive parenting: focusing on encouragement and support
+- negative reinforcement: removing something unpleasant to encourage behavior
+- time-out: a disciplinary technique involving a short period away from others
+- grounding: a punishment where privileges are taken away
+- curfew: a set time by which a child must be home
+- supervision: watching over children to ensure safety
+- family values: beliefs and principles shared by family members
+- cultural traditions: customs passed down through generations
+- generational gap: differences in attitudes between generations
+- digital literacy: the ability to use technology effectively
+- online safety: protecting children from dangers on the internet
+- parental monitoring: keeping track of children’s activities
+- academic achievement: success in schoolwork
+- motivation: the reason for acting or behaving in a certain way
+- praise: expressing approval or admiration
+- criticism: pointing out faults or mistakes
+- self-discipline: the ability to control one’s own behavior
+- negotiation: discussing to reach an agreement
+- compromise: settling differences by making concessions
+- family bond: the connection between family members
+- unconditional love: love without conditions or limitations
+- family tradition: a custom or practice repeated in a family
+- holiday celebration: special events to mark holidays
+- bedtime story: a story read to children before sleep
+- playdate: a scheduled time for children to play together
+- parent-teacher conference: a meeting between parents and teachers
+- school performance: how well a child does in school
+- learning environment: the setting in which a child learns
+- growth mindset: the belief that abilities can be developed
+- discipline problem: a challenge in managing behavior
+- behavioral issue: a pattern of problematic behavior
+- intervention: action taken to improve a situation
+- support group: a group of people with similar challenges who help each other
+- family rule: a guideline for behavior in the home
+- household routine: regular activities in the home
+- time management skill: the ability to use time effectively
+- self-care: actions taken to maintain health and well-being

@@ -1,0 +1,102 @@
+# Restaurant Experience Vocabulary (with explanations)
+
+- reservation: an arrangement to have a table held for you at a restaurant
+- host/hostess: the person who greets and seats guests
+- menu: a list of food and drink items available
+- appetizer: a small dish served before the main course
+- entrée: the main course of a meal
+- dessert: a sweet course eaten at the end of a meal
+- beverage: a drink, such as water, juice, or wine
+- waiter/waitress: a person who serves food and drinks
+- server: a general term for someone who serves customers
+- bill/check: a statement of what you owe for your meal
+- tip/gratuity: extra money given to the server for good service
+- special: a dish not on the regular menu, often featured for a limited time
+- cuisine: a style or method of cooking, especially as characteristic of a particular country or region
+- course: a part of a meal served at one time
+- side dish: a small portion of food served with the main course
+- table for two: a request for a table that seats two people
+- booth: a seating area with high-backed benches
+- high chair: a seat for a young child at the table
+- utensils: tools for eating, such as forks, knives, and spoons
+- napkin: a piece of cloth or paper for wiping the mouth and hands
+- condiments: sauces or seasonings added to food
+- order: to ask for food or drink in a restaurant
+- recommend: to suggest a dish or drink
+- allergy: a medical condition that causes a bad reaction to certain foods
+- vegetarian: a person who does not eat meat
+- vegan: a person who does not eat any animal products
+- gluten-free: food that does not contain gluten
+- reservation policy: the rules for booking tables
+- walk-in: a customer who arrives without a reservation
+- waiting list: a list of people waiting for a table
+- ambiance: the atmosphere or mood of a restaurant
+- open kitchen: a kitchen visible to diners
+- chef: the head cook in a restaurant
+- sous chef: the second-in-command in the kitchen
+- sommelier: a wine expert
+- tasting menu: a set menu with small portions of several dishes
+- à la carte: ordering individual dishes from the menu
+- buffet: a meal where guests serve themselves from a variety of dishes
+- self-service: customers serve themselves
+- takeout: food ordered to be eaten elsewhere
+- delivery: food brought to your location by the restaurant
+- reservation confirmation: proof that your table is booked
+- cancellation policy: the rules for canceling a reservation
+- dress code: guidelines for what to wear
+- fine dining: a high-end, formal restaurant experience
+- casual dining: a relaxed, informal restaurant
+- fast food: quick, inexpensive food, often served at a counter
+- food critic: a person who reviews restaurants
+- review: an evaluation or opinion about a restaurant
+- rating: a score given to a restaurant
+- customer service: the assistance provided to guests
+- complaint: expressing dissatisfaction with food or service
+- feedback: comments or suggestions from customers
+- reservation system: the method for booking tables
+- tableware: plates, glasses, and utensils used at the table
+- wine list: a menu of available wines
+- corkage fee: a charge for bringing your own wine
+- happy hour: a period when drinks are sold at reduced prices
+- set menu: a fixed-price menu with limited choices
+- children’s menu: a menu designed for young diners
+- portion size: the amount of food served
+- leftovers: food not eaten during the meal
+- doggy bag: a container for taking leftovers home
+- open seating: no assigned tables; guests choose where to sit
+- reservation deposit: money paid in advance to hold a table
+- service charge: an extra fee for service, sometimes included in the bill
+- table reservation app: a mobile application for booking tables
+- dietary restriction: a limitation on what someone can eat
+- food allergy warning: a notice about potential allergens in dishes
+- kitchen staff: people who prepare food in the kitchen
+- front of house: staff who interact with guests
+- back of house: staff who work in the kitchen or behind the scenes
+- table turnover: the rate at which tables are cleared and reset for new guests
+- wait time: the length of time before being seated or served
+- reservation confirmation email: an email verifying your booking
+- online review: a customer’s opinion posted on the Internet
+- food presentation: the way food is arranged and served
+- signature dish: a chef’s or restaurant’s most famous dish
+- seasonal menu: dishes that change with the seasons
+- prix fixe: a set price for a complete meal
+- tasting notes: descriptions of the flavors in food or wine
+- open table: a table that is available for seating
+- reservation reminder: a message reminding you of your booking
+- table setting: the arrangement of tableware for a meal
+- food pairing: matching food with suitable drinks
+- reservation request: asking for a table to be held
+- walk-in policy: rules for guests without reservations
+- food safety: practices to keep food safe to eat
+- hygiene: cleanliness in food preparation and service
+- reservation waitlist: a list for guests waiting for cancellations
+- table assignment: deciding where guests will sit
+- food runner: a staff member who brings food from the kitchen to tables
+- busser: a staff member who clears tables
+- maître d’: the person in charge of the dining room
+- guest experience: the overall impression of dining at a restaurant
+- reservation confirmation number: a code for verifying your booking
+- reservation time slot: the specific time reserved for your table
+- food sampler: a small taste of several dishes
+- amuse-bouche: a small complimentary appetizer
+- palate cleanser: a food or drink served to refresh the taste buds between courses

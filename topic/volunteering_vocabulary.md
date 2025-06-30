@@ -1,0 +1,103 @@
+# Volunteering Vocabulary (with explanations)
+
+- volunteer: a person who offers services without pay
+- nonprofit: an organization that does not make a profit but serves a cause
+- community service: work done to help the community
+- fundraising: collecting money for a cause
+- outreach: activities to provide services or information to people
+- commitment: a promise to do something or be involved
+- impact: the effect or influence of an action
+- initiative: a new plan or action to solve a problem
+- mentor: an experienced person who guides others
+- collaboration: working together with others
+- charity: an organization that helps people in need
+- donation: something given to help a cause
+- event coordinator: a person who organizes events
+- volunteer coordinator: a person who manages volunteers
+- training session: a meeting to teach skills or information
+- orientation: an introduction to a new role or organization
+- skill-based volunteering: using professional skills to help others
+- pro bono: professional work done for free
+- advocacy: supporting a cause or proposal
+- awareness campaign: activities to inform people about an issue
+- beneficiary: a person who receives help or benefits
+- service project: a planned activity to help others
+- time commitment: the amount of time required for volunteering
+- application process: the steps to become a volunteer
+- background check: a review of a person’s history before volunteering
+- reference: a person who can vouch for your character
+- placement: being assigned to a volunteer role
+- supervision: guidance and oversight of volunteers
+- feedback: comments or suggestions for improvement
+- recognition: acknowledgment of a volunteer’s contributions
+- certificate of appreciation: a document recognizing volunteer work
+- volunteer hours: the amount of time spent volunteering
+- team building: activities to strengthen group cooperation
+- leadership: the ability to guide and inspire others
+- responsibility: being accountable for tasks
+- flexibility: willingness to adapt to new situations
+- empathy: understanding and sharing the feelings of others
+- compassion: concern for the suffering of others
+- patience: the ability to wait calmly
+- communication skills: the ability to share information clearly
+- problem-solving: finding solutions to challenges
+- resourcefulness: the ability to deal with new situations effectively
+- initiative: taking action without being told
+- project management: planning and organizing tasks
+- event planning: organizing and managing events
+- logistics: the details of how things are done
+- partnership: working with another organization or group
+- sustainability: maintaining efforts over time
+- social impact: the effect on society or a community
+- global volunteer: volunteering in another country
+- local volunteer: volunteering in your own community
+- virtual volunteering: helping remotely via the internet
+- disaster relief: helping people affected by disasters
+- humanitarian aid: assistance for people in crisis
+- environmental volunteering: helping to protect the environment
+- animal shelter: a place that cares for homeless animals
+- food bank: a place that provides food to those in need
+- literacy program: teaching reading and writing skills
+- health campaign: activities to improve public health
+- youth mentoring: guiding and supporting young people
+- senior care: helping elderly people
+- special needs: supporting people with disabilities
+- cultural exchange: sharing and learning about different cultures
+- volunteer opportunity: a chance to help others
+- application deadline: the last date to apply
+- volunteer policy: rules for volunteers
+- code of conduct: guidelines for behavior
+- confidentiality: keeping information private
+- risk assessment: identifying potential dangers
+- insurance: protection against accidents or loss
+- travel stipend: money to help with travel costs
+- uniform: special clothing worn by volunteers
+- volunteer handbook: a guide for volunteers
+- orientation session: a meeting to introduce new volunteers
+- exit interview: a meeting when a volunteer leaves
+- volunteer appreciation event: a celebration for volunteers
+- volunteer retention: keeping volunteers involved
+- volunteer recruitment: finding new volunteers
+- volunteer database: a record of volunteer information
+- volunteer testimonial: a statement about volunteering experience
+- impact report: a summary of results achieved
+- matching program: pairing volunteers with suitable roles
+- skills assessment: evaluating abilities for volunteer roles
+- volunteer portal: an online system for managing volunteers
+- volunteer recognition program: ways to thank and reward volunteers
+- volunteer survey: a questionnaire to gather feedback
+- volunteer training manual: a book of instructions for volunteers
+- volunteer waiver: a legal document releasing liability
+- volunteer shift: a scheduled period of volunteer work
+- volunteer supervisor: a person overseeing volunteers
+- volunteer orientation checklist: a list of tasks for new volunteers
+- volunteer evaluation: a review of volunteer performance
+- volunteer opportunity board: a list of available roles
+- volunteer matching: connecting people with suitable opportunities
+- volunteer engagement: keeping volunteers interested and active
+- volunteer leadership: guiding and supporting other volunteers
+- volunteer project: a specific task or activity for volunteers
+- volunteer satisfaction: how happy volunteers are with their experience
+- volunteer turnover: the rate at which volunteers leave
+- volunteer recruitment strategy: a plan to attract new volunteers
+- volunteer management system: software for organizing volunteers

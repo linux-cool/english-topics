@@ -1,0 +1,97 @@
+# Art Exhibition Vocabulary (with explanations)
+
+- curator: a person who organizes and manages an art exhibition
+- gallery: a place where art is displayed
+- installation: a large, often site-specific, work of art
+- abstract: art that does not represent recognizable objects
+- contemporary: art created in the present time
+- masterpiece: an outstanding work of art
+- exhibit: a public display of art
+- interpretation: the explanation or meaning of an artwork
+- medium: the material or technique used to create art
+- perspective: the technique of representing three-dimensional objects on a two-dimensional surface
+- composition: the arrangement of elements in a work of art
+- brushstroke: the mark made by a paintbrush
+- sculpture: a three-dimensional work of art
+- canvas: a strong cloth used as a surface for painting
+- frame: a structure that surrounds and supports a work of art
+- opening reception: an event to celebrate the start of an exhibition
+- art critic: a person who evaluates and writes about art
+- patron: a person who supports artists or art institutions
+- collection: a group of artworks owned by a person or institution
+- private view: a special viewing of an exhibition before it opens to the public
+- art fair: an event where artists and galleries display and sell art
+- auction: a public sale where art is sold to the highest bidder
+- provenance: the history of ownership of an artwork
+- restoration: the process of repairing or cleaning art
+- lighting: the arrangement of lights to enhance the display of art
+- label: a small sign providing information about an artwork
+- wall text: written information displayed on the walls of an exhibition
+- docent: a guide who provides information about the art
+- interactive exhibit: an artwork that invites audience participation
+- retrospective: an exhibition showing an artist’s work over time
+- solo show: an exhibition featuring the work of one artist
+- group show: an exhibition featuring multiple artists
+- opening hours: the times when an exhibition is open to the public
+- admission fee: the cost to enter an exhibition
+- ticket: a pass allowing entry to an event
+- visitor: a person who attends an exhibition
+- artist statement: a written description of an artist’s work and ideas
+- art movement: a style or trend in art with a common philosophy
+- realism: art that represents subjects as they appear in real life
+- surrealism: art that explores the unconscious mind and dream imagery
+- impressionism: a style of painting characterized by loose brushwork and light
+- expressionism: art that emphasizes the expression of emotion
+- minimalism: art that uses simple forms and limited colors
+- pop art: art based on popular culture and mass media
+- mural: a large painting on a wall
+- commission: a request for an artist to create a specific work
+- limited edition: a set number of prints or copies of an artwork
+- vernissage: a private viewing of an exhibition before the public opening
+- art dealer: a person who buys and sells art
+- art historian: a person who studies the history of art
+- art appreciation: understanding and enjoying art
+- visual arts: art forms that are primarily visual, such as painting and sculpture
+- fine arts: art created for aesthetic purposes
+- applied arts: art created for practical use
+- mixed media: art made with a combination of materials
+- printmaking: the process of making artworks by printing
+- lithograph: a type of print made from a flat surface
+- etching: a printmaking technique using acid to create designs
+- art installation: a three-dimensional work designed to transform a space
+- performance art: art that involves live actions by the artist
+- conceptual art: art where the idea is more important than the object
+- art opening: the first day an exhibition is open to the public
+- gallery talk: a presentation or discussion about the art on display
+- art walk: an event where people visit multiple galleries or exhibitions
+- art residency: a program where artists work in a specific place for a period
+- art grant: funding given to support artists or projects
+- public art: art displayed in public spaces
+- art education: teaching and learning about art
+- art therapy: using art to improve mental health
+- art market: the buying and selling of art
+- art investment: purchasing art as a financial asset
+- art reproduction: a copy of an original artwork
+- art forgery: a fake or copied artwork presented as original
+- art theft: the illegal taking of art
+- art insurance: protection against loss or damage to art
+- art valuation: determining the worth of an artwork
+- art trend: a popular direction in art
+- art review: a written evaluation of an exhibition
+- art publication: a magazine or book about art
+- art sponsorship: financial support for art events or projects
+- art partnership: collaboration between artists or organizations
+- art outreach: programs to bring art to new audiences
+- art accessibility: making art available to everyone
+- art innovation: new ideas or methods in art
+- art preservation: protecting art for future generations
+- art documentation: recording information about art and exhibitions
+- art logistics: planning and managing the transport and display of art
+- art storage: keeping art safe when not on display
+- art shipping: transporting art safely
+- art handling: the care and movement of artworks
+- art security: measures to protect art from theft or damage
+- art licensing: permission to use images of art
+- art copyright: legal rights of artists over their work
+- art exhibition design: planning the layout and presentation of art
+- art visitor experience: the overall impression and enjoyment of an exhibition

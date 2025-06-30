@@ -1,0 +1,102 @@
+# Fitness and Wellness Vocabulary (with explanations)
+
+- workout: a session of physical exercise
+- nutrition: the process of providing or obtaining the food necessary for health
+- stamina: the ability to sustain prolonged physical or mental effort
+- flexibility: the quality of bending easily without breaking; adaptability in movement
+- mindfulness: a mental state achieved by focusing awareness on the present moment
+- routine: a regular way of doing things, especially exercise
+- personal trainer: a professional who helps people achieve fitness goals
+- balanced diet: eating the right amounts of different foods
+- cardiovascular: relating to the heart and blood vessels
+- wellness: the state of being in good health
+- strength training: exercises that improve muscle strength
+- aerobic exercise: physical activity that increases heart rate and breathing
+- endurance: the ability to withstand hardship or stress
+- metabolism: the chemical processes in the body that maintain life
+- hydration: the process of providing adequate water to the body
+- body composition: the percentages of fat, bone, water, and muscle in the body
+- BMI (Body Mass Index): a measure of body fat based on height and weight
+- calorie: a unit of energy provided by food
+- macronutrients: nutrients required in large amounts (carbohydrates, proteins, fats)
+- micronutrients: nutrients required in small amounts (vitamins, minerals)
+- recovery: the process of returning to normal after exercise
+- warm-up: gentle exercise to prepare the body for more intense activity
+- cool-down: gentle exercise to help the body recover after intense activity
+- injury prevention: actions taken to avoid harm during exercise
+- stretching: exercises to improve flexibility and prevent injury
+- core strength: the strength of the muscles in the abdomen and lower back
+- posture: the way one holds their body
+- fitness tracker: a device that monitors physical activity
+- step count: the number of steps taken in a day
+- heart rate: the number of heartbeats per minute
+- interval training: alternating periods of high and low intensity exercise
+- HIIT (High-Intensity Interval Training): a form of interval training with short bursts of intense activity
+- yoga: a practice combining physical postures, breathing, and meditation
+- pilates: a form of exercise focusing on core strength and flexibility
+- resistance band: a stretchy band used for strength training
+- dumbbell: a short bar with weights at each end, used for exercise
+- gym membership: a subscription to use a fitness center
+- group class: a fitness session led by an instructor for multiple participants
+- fitness goal: a target or objective related to health or exercise
+- progress tracking: monitoring improvements in fitness
+- sleep hygiene: habits that promote good sleep quality
+- stress management: techniques to control stress
+- mental health: emotional and psychological well-being
+- self-care: actions taken to maintain health and well-being
+- holistic health: considering the whole person, including mind and body
+- body fat percentage: the proportion of fat in the body
+- muscle mass: the amount of muscle in the body
+- physical therapy: treatment to restore movement and function
+- sports injury: harm caused by physical activity
+- rest day: a day without exercise to allow the body to recover
+- overtraining: excessive exercise without adequate rest
+- supplement: a product taken to add nutrients to the diet
+- protein shake: a drink high in protein, often used after workouts
+- meal prep: preparing meals in advance for convenience and nutrition
+- portion control: managing the amount of food eaten at one time
+- healthy habit: a behavior that promotes well-being
+- sedentary: characterized by much sitting and little physical activity
+- active lifestyle: a way of living that includes regular physical activity
+- bodyweight exercise: exercises using one’s own weight as resistance
+- circuit training: a series of exercises performed in rotation
+- fitness assessment: a test to evaluate physical health and abilities
+- personal best: the best performance achieved by an individual
+- motivation: the reason for acting or behaving in a particular way
+- accountability: being responsible for one’s actions
+- workout buddy: a partner for exercising
+- fitness app: a mobile application for tracking exercise and health
+- wearable device: technology worn on the body to monitor health
+- hydration reminder: a prompt to drink water
+- calorie deficit: consuming fewer calories than the body uses
+- body transformation: significant changes in body composition
+- fitness challenge: a set goal or competition to motivate exercise
+- wellness coach: a professional who guides clients toward better health
+- health screening: tests to detect potential health problems
+- injury rehabilitation: recovery from physical harm
+- sports nutrition: diet and supplements for athletic performance
+- cross-training: varying exercise routines to improve overall fitness
+- functional training: exercises that mimic everyday movements
+- metabolic rate: the speed at which the body uses energy
+- sleep cycle: the pattern of sleep stages during the night
+- circadian rhythm: the body’s natural 24-hour cycle
+- immune system: the body’s defense against illness
+- antioxidant: a substance that protects cells from damage
+- inflammation: the body’s response to injury or infection
+- body scan: a mindfulness technique to check in with the body
+- gratitude practice: focusing on things to be thankful for
+- positive mindset: an optimistic attitude toward life
+- self-discipline: the ability to control one’s actions and impulses
+- relapse prevention: strategies to avoid returning to unhealthy habits
+- health goal: a specific target for improving well-being
+- support group: a group of people with similar goals who help each other
+- relapse: returning to a previous unhealthy behavior
+- wellness retreat: a trip focused on health and relaxation
+- spa treatment: therapies for relaxation and health
+- body image: how a person perceives their physical appearance
+- self-esteem: confidence in one’s own worth or abilities
+- health risk: the chance of developing a health problem
+- preventive care: actions taken to prevent illness or injury
+- annual check-up: a yearly visit to a doctor for a health assessment
+- health insurance: coverage for medical expenses
+- medical clearance: approval from a doctor to participate in exercise

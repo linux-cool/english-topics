@@ -1,0 +1,106 @@
+# Online Learning Vocabulary (with explanations)
+
+- e-learning: learning conducted via electronic media, typically on the Internet
+- platform: a website or application used for delivering online courses
+- webinar: a seminar conducted over the Internet
+- virtual classroom: an online space where teachers and students interact in real time
+- module: a unit or section of a course
+- assignment: a task or piece of work given to students
+- deadline: the latest time or date by which something should be completed
+- discussion forum: an online space for exchanging ideas and questions
+- interactive: involving active participation
+- self-paced: allowing students to progress at their own speed
+- instructor: a person who teaches a course
+- peer review: evaluation of work by fellow students
+- assessment: a test or evaluation of knowledge
+- certificate: an official document attesting to completion of a course
+- login: the process of entering a username and password to access a system
+- password: a secret word or phrase for security
+- video lecture: a recorded or live video presentation by an instructor
+- screen sharing: showing your computer screen to others online
+- breakout room: a smaller online group for discussion or activities
+- mute: to turn off your microphone
+- unmute: to turn your microphone back on
+- bandwidth: the amount of data that can be transmitted over the Internet
+- connectivity: the quality of being connected to the Internet
+- technical support: help with computer or software problems
+- user interface: the way a user interacts with a computer or application
+- resource: materials or tools used for learning
+- upload: to transfer a file from your computer to a website
+- download: to transfer a file from a website to your computer
+- plagiarism: using someone else’s work without permission
+- citation: giving credit to the source of information
+- syllabus: an outline of topics covered in a course
+- feedback: comments or suggestions for improvement
+- grade: a score or mark given for academic work
+- submission: the act of turning in an assignment
+- proctor: a person who supervises an exam
+- live session: a real-time online class or meeting
+- asynchronous: not happening at the same time; students can participate at different times
+- synchronous: happening at the same time; students participate together
+- mobile learning: using smartphones or tablets for education
+- accessibility: the ease with which people can use online learning, including those with disabilities
+- adaptive learning: technology that adjusts content to a learner’s needs
+- learning management system (LMS): software for delivering and tracking courses
+- enrollment: the process of signing up for a course
+- prerequisite: a requirement that must be met before taking a course
+- digital literacy: the ability to use digital technology effectively
+- cloud storage: saving files on the Internet instead of a local computer
+- collaboration: working together with others online
+- annotation: adding notes or comments to a document
+- transcript: a written version of spoken material
+- forum moderator: a person who manages online discussions
+- notification: a message alerting you to new activity
+- time management: organizing your time effectively
+- study group: a group of students who meet to learn together online
+- course catalog: a list of available courses
+- tuition: the fee for taking a course
+- scholarship: financial aid for students
+- mentor: an experienced person who guides a learner
+- digital classroom: an online environment for teaching and learning
+- courseware: digital materials for a course
+- exam: a formal test of knowledge
+- quiz: a short test
+- learning outcome: what a student is expected to know or do after a course
+- progress tracker: a tool for monitoring learning progress
+- virtual background: an image or video used as a background in video calls
+- chat box: a space for typing messages during online sessions
+- emoji: a small digital image used to express emotion
+- screen recording: capturing video of your computer screen
+- troubleshooting: solving technical problems
+- user profile: personal information and settings in an online system
+- privacy policy: rules about how personal data is used
+- netiquette: polite behavior online
+- digital footprint: the record of your online activity
+- remote learning: studying away from a traditional classroom
+- blended learning: a mix of online and in-person education
+- microlearning: short, focused learning activities
+- gamification: using game elements to make learning more engaging
+- open educational resources (OER): free materials for teaching and learning
+- peer interaction: communication and collaboration with fellow students
+- course facilitator: a person who helps guide a course
+- learning path: a sequence of courses or modules
+- course completion: finishing all requirements for a course
+- digital badge: an online symbol of achievement
+- course evaluation: feedback on the quality of a course
+- learning analytics: data about student learning and performance
+- proctored exam: an exam supervised online or in person
+- plagiarism checker: a tool for detecting copied content
+- course announcement: important information shared by the instructor
+- technical requirements: the hardware and software needed for a course
+- accessibility features: tools that help people with disabilities use online learning
+- synchronous session: a live, real-time online class
+- asynchronous module: a self-paced, non-live course section
+- online assessment: a test or quiz taken over the Internet
+- course navigation: moving through different parts of an online course
+- online resource library: a collection of digital learning materials
+- course enrollment key: a code needed to join a course
+- online submission: turning in assignments via the Internet
+- online collaboration tool: software for group work online
+- online discussion board: a forum for class discussions
+- online office hours: scheduled times to meet instructors online
+- online peer review: students evaluating each other’s work online
+- online proctoring: supervising exams remotely
+- online survey: a questionnaire completed online
+- online tutorial: a lesson or guide delivered online
+- online whiteboard: a digital space for drawing and writing during lessons

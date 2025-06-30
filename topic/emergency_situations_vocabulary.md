@@ -1,0 +1,97 @@
+# Emergency Situations Vocabulary (with explanations)
+
+- emergency: a serious, unexpected, and often dangerous situation requiring immediate action
+- first aid: immediate medical help given before professional care arrives
+- ambulance: a vehicle for transporting sick or injured people to the hospital
+- paramedic: a medical professional who responds to emergencies
+- evacuation: the process of moving people from a dangerous place to safety
+- fire alarm: a device that warns of fire by making a loud noise
+- fire extinguisher: a device used to put out small fires
+- CPR (cardiopulmonary resuscitation): a life-saving technique used when someone’s heart stops
+- rescue: to save someone from a dangerous situation
+- 911 (or emergency number): the phone number to call for emergency services
+- hazard: something that can cause harm or danger
+- shelter: a safe place to stay during an emergency
+- lockdown: a security measure where people are required to stay in a safe place
+- emergency kit: a collection of supplies for use in an emergency
+- disaster: a sudden event causing great damage or loss
+- flood: an overflow of water that submerges land
+- earthquake: a sudden shaking of the ground
+- fire drill: a practice of what to do in case of fire
+- emergency exit: a special door for leaving a building quickly in an emergency
+- warning: a message that something dangerous may happen
+- alert: an announcement of possible danger
+- casualty: a person injured or killed in an accident or disaster
+- triage: the process of deciding the order of treatment for patients
+- emergency room (ER): the hospital department for urgent medical care
+- blackout: a loss of electrical power
+- aftershock: a smaller earthquake following a main shock
+- emergency shelter: a temporary place for people to stay during a disaster
+- emergency response: actions taken to deal with an emergency
+- emergency contact: the person to call in case of emergency
+- survival: the state of continuing to live in spite of danger
+- panic: a sudden, uncontrollable fear or anxiety
+- emergency broadcast: a message sent to warn the public
+- emergency services: organizations that help in emergencies (police, fire, ambulance)
+- emergency plan: a prepared set of actions for dealing with emergencies
+- emergency supplies: food, water, and other items needed in an emergency
+- emergency procedure: the steps to follow in an emergency
+- emergency hotline: a phone number for urgent help
+- emergency drill: a practice exercise for emergency situations
+- emergency blanket: a special blanket to keep warm in emergencies
+- emergency landing: when an aircraft lands unexpectedly due to danger
+- emergency brake: a device for stopping a vehicle quickly
+- emergency call: a phone call for urgent help
+- emergency services dispatcher: the person who answers emergency calls
+- emergency beacon: a device that sends a signal for help
+- emergency management: the organization and coordination of resources for emergencies
+- emergency medical technician (EMT): a person trained to provide emergency care
+- emergency operation center: a place where emergency response is coordinated
+- emergency supplies kit: a set of items needed for survival in an emergency
+- emergency preparedness: being ready for emergencies
+- emergency training: learning what to do in emergencies
+- emergency protocol: the official procedure for emergencies
+- emergency scenario: a possible situation requiring emergency response
+- emergency simulation: a practice of emergency response
+- emergency warning system: a system for alerting people to danger
+- emergency evacuation plan: a plan for leaving a place safely
+- emergency assembly point: a safe place to gather during an emergency
+- emergency power supply: backup electricity for emergencies
+- emergency water supply: stored water for emergencies
+- emergency food supply: stored food for emergencies
+- emergency lighting: lights used when normal power fails
+- emergency exit sign: a sign showing the way out in an emergency
+- emergency response team: a group trained to handle emergencies
+- emergency medical services (EMS): medical help provided in emergencies
+- emergency operations plan: a plan for managing emergencies
+- emergency response drill: a practice of emergency procedures
+- emergency communication: sharing information during emergencies
+- emergency shelter-in-place: staying indoors for safety during an emergency
+- emergency supplies checklist: a list of items needed for emergencies
+- emergency transportation: vehicles used in emergencies
+- emergency warning: a message about possible danger
+- emergency alert system: a system for sending emergency messages
+- emergency preparedness plan: a plan for being ready for emergencies
+- emergency response protocol: the steps to follow in an emergency
+- emergency medical care: treatment given in emergencies
+- emergency evacuation drill: a practice of leaving a place safely
+- emergency assembly area: a place to gather during an emergency
+- emergency response plan: a plan for dealing with emergencies
+- emergency medical response: medical help in emergencies
+- emergency response exercise: a practice of emergency response
+- emergency response scenario: a situation requiring emergency response
+- emergency response simulation: a practice of emergency response
+- emergency response training: learning how to respond to emergencies
+- emergency response vehicle: a vehicle used in emergencies
+- emergency response system: a system for managing emergencies
+- emergency response supplies: items needed for emergency response
+- emergency response procedures: the steps to follow in an emergency
+- emergency response operations: actions taken in an emergency
+- emergency response coordination: organizing emergency response
+- emergency response communication: sharing information in emergencies
+- emergency response planning: preparing for emergencies
+- emergency response management: managing emergency response
+- emergency response team leader: the person in charge of emergency response
+- emergency response plan review: checking the emergency response plan
+- emergency response plan update: changing the emergency response plan
+- emergency response plan implementation: putting the emergency response plan into action
